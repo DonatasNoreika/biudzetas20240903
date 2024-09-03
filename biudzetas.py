@@ -75,6 +75,7 @@ class Biudzetas:
 biudzetas = Biudzetas()
 
 while True:
+print("Pasirinkite veiksmą")
     veiksmas = int(input("""
 1 - įvesti pajamas
 2 - įvesti išlaidas
